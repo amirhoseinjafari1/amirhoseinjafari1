@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently%20building%20cloud--native%20solutions%20at-NobarCloud-0f172a?style=for-the-badge&labelColor=0f172a&color=1e293b" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E2E8F0&center=true&vCenter=true&width=520&lines=Cloud%20%26%20DevOps%20at%20Nobar%20Cloud;DevOps+Engineer+%7C+Automation+%7C+Cloud" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -68,7 +69,7 @@ Focused on resilient systems, developer enablement, and observable delivery pipe
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadRafiee&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirhoseinjafari1&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseinjafari1&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
