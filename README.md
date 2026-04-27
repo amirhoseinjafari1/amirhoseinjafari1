@@ -45,7 +45,6 @@ Focused on resilient systems, developer enablement, and observable delivery pipe
 <p align="center">
   <img src="https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7C3AED?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vagrant-2563EB?style=for-the-badge&logo=vagrant&logoColor=white" />
   <img src="https://img.shields.io/badge/ArgoCD-0EA5E9?style=for-the-badge&logo=argo&logoColor=white" />
 </p>
 
