@@ -1,11 +1,11 @@
 <!-- ⭐ Profile README for github.com/amirhoseinjafari1 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:3B0764,100:1E1B4B&height=240&section=header&text=Amir%20Hosein%20Jafari&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%C2%B7%20Cloud%20%26%20Automation&descAlign=50&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:3B0764,100:1E1B4B&height=240&section=header&text=Amir%20Hosein%20Jafari&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=DevOps%20%2F%20Cloud%20Engineer&descAlign=50&descAlignY=58&descSize=18" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Cloud+%26+DevOps+at+Nobar+Cloud;Building+resilient+%26+observable+systems;Automation+%7C+IaC+%7C+Kubernetes+%7C+OpenStack" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Cloud+DevOps+at+NobarCloud;Turning+manual+chaos+into+automated+magic.;Building+resilient+%26+observable+systems;Automation+%7C+IaC+%7C+Kubernetes+%7C+OpenStack+%7C+Ceph" alt="typing" />
 </p>
 
 <p align="center">
@@ -83,19 +83,22 @@ Focused on resilient systems, developer enablement, and observable delivery pipe
 
 ---
 
-<h2 align="center">🐍 Contribution Galaxy</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amirhoseinjafari1/amirhoseinjafari1/output/snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-<h2 align="center">🚀 Featured</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/amirhoseinjafari1/learning-in-public">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirhoseinjafari1&repo=learning-in-public&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD&icon_color=22D3EE" />
+  </a>
+  <a href="https://github.com/amirhoseinjafari1/ansible-ssh-key-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirhoseinjafari1&repo=ansible-ssh-key-manager&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD&icon_color=22D3EE" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/amirhoseinjafari1/k8s-manifest-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirhoseinjafari1&repo=k8s-manifest-generator&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD&icon_color=22D3EE" />
+  </a>
+  <a href="https://github.com/amirhoseinjafari1/OpenStack-ToolBox">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirhoseinjafari1&repo=OpenStack-ToolBox&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD&icon_color=22D3EE" />
   </a>
 </p>
 
