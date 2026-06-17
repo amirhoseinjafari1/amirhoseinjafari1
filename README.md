@@ -81,26 +81,6 @@ Focused on resilient systems, developer enablement, and observable delivery pipe
   <img src="https://github-profile-trophy.vercel.app/?username=amirhoseinjafari1&theme=algolia&no-frame=true&margin-w=4&column=7" />
 </p>
 
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/amirhoseinjafari1/learning-in-public">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirhoseinjafari1&repo=learning-in-public&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD&icon_color=22D3EE" />
-  </a>
-  <a href="https://github.com/amirhoseinjafari1/ansible-ssh-key-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirhoseinjafari1&repo=ansible-ssh-key-manager&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD&icon_color=22D3EE" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/amirhoseinjafari1/k8s-manifest-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirhoseinjafari1&repo=k8s-manifest-generator&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD&icon_color=22D3EE" />
-  </a>
-  <a href="https://github.com/amirhoseinjafari1/OpenStack-ToolBox">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirhoseinjafari1&repo=OpenStack-ToolBox&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD&icon_color=22D3EE" />
-  </a>
-</p>
 
 ---
 
